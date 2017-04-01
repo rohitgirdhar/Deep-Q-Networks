@@ -3,6 +3,7 @@ Deep Q Learning for playing Atari Games
 
 ## Sample results
 
+Simple DQN model, seen around 10M frames (iterations)
 
 ![Simple DQN playing Atari Enduro-v0](https://github.com/rohitgirdhar/Deep-Q-Networks/raw/master/assets/dqn_enduro.gif) | ![Simple DQN playing Atari Pong-v0](https://github.com/rohitgirdhar/Deep-Q-Networks/raw/master/assets/dqn_pong.gif)
 
@@ -38,7 +39,7 @@ Episode length
 
 ![Episode length](https://github.com/rohitgirdhar/Deep-Q-Networks/raw/master/assets/episode_len.png)
 
-Total Reward over 20 iterations
+Total Reward over 20 episodes
 
 ![Total Reward](https://github.com/rohitgirdhar/Deep-Q-Networks/raw/master/assets/reward.png)
 
@@ -48,7 +49,7 @@ Loss
 
 ## References and Acknowledgements
 
-This work was done as a course assignment for the [CMU Deep RL course](https://katefvision.github.io/), so thanks to the instructors for guidance and providing starter code. Also thanks to [Achal](http://www.achaldave.com/) for help in tuning hyperparameters.
+This work was done as a course assignment for the [CMU Deep RL course](https://katefvision.github.io/), so thanks to the instructors for guidance and providing starter code. Also thanks to [Achal](http://www.achaldave.com/) for hyperparameter suggestions.
 
 [1] Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou,
 Daan Wierstra, and Martin Riedmiller. Playing atari with deep reinforcement learning.
