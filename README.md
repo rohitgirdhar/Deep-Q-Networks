@@ -29,9 +29,9 @@ Simply replace `--model convnet` with `--model dueling_convnet` in the above com
 ## Performance plots
 
 Following curves compare the
-<span style="color:yellow">dueling</span>,
-<span style="color:green">double</span> and
-<span style="color:blue">simple</span>
+<span style="color:yellow">dueling (yellow)</span>,
+<span style="color:green">double (green)</span> and
+<span style="color:blue">simple (blue)</span>
 deep Q networks.
 
 Episode length
