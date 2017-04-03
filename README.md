@@ -5,7 +5,7 @@ Deep Q Learning for playing Atari Games
 
 Simple DQN model, seen around 10M frames (iterations)
 
-![Simple DQN playing Atari Enduro-v0](https://github.com/rohitgirdhar/Deep-Q-Networks/raw/master/assets/dqn_enduro.gif) | ![Simple DQN playing Atari Pong-v0](https://github.com/rohitgirdhar/Deep-Q-Networks/raw/master/assets/dqn_pong.gif)
+![Simple DQN playing Atari Enduro-v0](assets/dqn_enduro.gif) | ![Simple DQN playing Atari Pong-v0](assets/dqn_pong.gif)
 
 
 ## Training models
