@@ -3,7 +3,6 @@
 import numpy as np
 from PIL import Image
 
-from deeprl import utils
 from deeprl.core import Preprocessor
 
 
